@@ -1,0 +1,9 @@
+{
+  "name": "wox.plugin.bookmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.cs",
+  "author": "Ross Ketron",
+  "dependencies": {
+  }
+}

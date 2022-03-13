@@ -1,0 +1,12 @@
+{
+  "ID": "A4D1D8Y7J9415392CJ48B54V7KI3921A",
+  "ActionKeywords": ["bm"],
+  "Name": "Bookmarks",
+  "Description": "Bookmarks Plugin",
+  "Author": "Ross Ketron",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "http://www.wox.one/plugin",
+  "ExecuteFileName": "Wox.Plugin.Bookmarks.dll",
+  "IcoPath": "Prompt.png"
+}
