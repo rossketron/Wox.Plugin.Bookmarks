@@ -51,7 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
-    <Compile Include="Models\Bookmarks.cs" />
+    <Compile Include="Models\SettingsModel.cs" />
+    <Compile Include="Models\BookmarkResult.cs" />
+    <Compile Include="Models\BookmarkApi.cs" />
     <Compile Include="Plugins\Bookmarks.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
